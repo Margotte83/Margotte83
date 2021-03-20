@@ -7,6 +7,5 @@
 - 👯 I’m looking to collaborate on big projects.
 - 🤔 I’m looking for help with find a great work-study.
 - 💬 Ask me about Front-end and design.
-- 📫 How to reach me: marjorie.ngoupende@gmail.com
 - ☕ My favorite drink: Capuccino! 
 
