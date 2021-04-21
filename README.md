@@ -3,7 +3,7 @@
 ### HI There! 👋
 
 - 🔭 I’m currently working on e-commerce projects.
-- 🌱 I’m currently learning SYMFONY Framework.
+- 🌱 I would like to learn more Python.
 - 👯 I’m looking to collaborate on big projects.
 - 🤔 I’m looking for help with find a great work-study.
 - 💬 Ask me about Front-end and design.
