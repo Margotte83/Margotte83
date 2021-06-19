@@ -2,7 +2,7 @@
 
 ### HI There! 👋
 
-- 🔭 I’m currently working on e-commerce projects.
+- 🔭 I’m currently working on Blockchain projects.
 - 🌱 I would like to learn more Python.
 - 👯 I’m looking to collaborate on big projects.
 - 🤔 I’m looking for help with find a great work-study.
